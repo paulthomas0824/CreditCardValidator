@@ -12,7 +12,8 @@ This application uses Luhn's Algorithm to help validate credit cards mainly the 
 To use please copy, paste and run the main.cpp file in any IDE of your choice and you can see if the credit card number is valid 
     
 ### Screenshots
-![screenshot](s)
+![Capture](https://user-images.githubusercontent.com/21247085/121981494-5eb79000-cd53-11eb-9dc4-12daa6009dc7.JPG)
+
 
 
 ## Questions
